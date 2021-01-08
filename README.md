@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Heather 👋
+
+I'm a technology strategist and solver of business challenges.
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/heatherjohalloran/)
 
 <!--
 **heatheroh/heatheroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
